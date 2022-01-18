@@ -13,7 +13,7 @@ header{
 nav{
     background-color: rgb(110, 110, 110);
     padding: 5px;
-    box-shadow: 4px 3px 7px rgba(0, 0, 0, 0.397);
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.397);
 }
 
 nav > a{
@@ -32,6 +32,8 @@ main{
     background-color: white;
     padding: 10px;
     margin: 10px;
+    border-radius: 10px 0;
+    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.356);
 }
 
 article{
